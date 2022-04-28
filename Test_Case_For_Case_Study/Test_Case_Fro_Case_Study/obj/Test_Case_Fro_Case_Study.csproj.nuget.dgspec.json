@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ghais\\Desktop\\Case_Study_Test\\Test_For_Case_Study\\Test_Case_Fro_Case_Study\\Test_Case_Fro_Case_Study\\Test_Case_Fro_Case_Study.csproj": {}
+    "C:\\Users\\Khashayar\\Desktop\\ikomm-local-machine-repo\\Test_For_Case_Study\\Test_Case_For_Case_Study\\Test_Case_Fro_Case_Study\\Test_Case_Fro_Case_Study.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ghais\\Desktop\\Case_Study_Test\\Test_For_Case_Study\\Test_Case_Fro_Case_Study\\Test_Case_Fro_Case_Study\\Test_Case_Fro_Case_Study.csproj": {
+    "C:\\Users\\Khashayar\\Desktop\\ikomm-local-machine-repo\\Test_For_Case_Study\\Test_Case_For_Case_Study\\Test_Case_Fro_Case_Study\\Test_Case_Fro_Case_Study.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ghais\\Desktop\\Case_Study_Test\\Test_For_Case_Study\\Test_Case_Fro_Case_Study\\Test_Case_Fro_Case_Study\\Test_Case_Fro_Case_Study.csproj",
+        "projectUniqueName": "C:\\Users\\Khashayar\\Desktop\\ikomm-local-machine-repo\\Test_For_Case_Study\\Test_Case_For_Case_Study\\Test_Case_Fro_Case_Study\\Test_Case_Fro_Case_Study.csproj",
         "projectName": "Test_Case_Fro_Case_Study",
-        "projectPath": "C:\\Users\\Ghais\\Desktop\\Case_Study_Test\\Test_For_Case_Study\\Test_Case_Fro_Case_Study\\Test_Case_Fro_Case_Study\\Test_Case_Fro_Case_Study.csproj",
-        "packagesPath": "C:\\Users\\Ghais\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ghais\\Desktop\\Case_Study_Test\\Test_For_Case_Study\\Test_Case_Fro_Case_Study\\Test_Case_Fro_Case_Study\\obj\\",
+        "projectPath": "C:\\Users\\Khashayar\\Desktop\\ikomm-local-machine-repo\\Test_For_Case_Study\\Test_Case_For_Case_Study\\Test_Case_Fro_Case_Study\\Test_Case_Fro_Case_Study.csproj",
+        "packagesPath": "C:\\Users\\Khashayar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Khashayar\\Desktop\\ikomm-local-machine-repo\\Test_For_Case_Study\\Test_Case_For_Case_Study\\Test_Case_Fro_Case_Study\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ghais\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Khashayar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
