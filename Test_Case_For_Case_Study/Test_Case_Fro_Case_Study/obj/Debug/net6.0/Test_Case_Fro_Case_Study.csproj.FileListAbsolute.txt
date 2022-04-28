@@ -1,0 +1,15 @@
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\bin\Debug\net6.0\Test_Case_Fro_Case_Study.exe
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\bin\Debug\net6.0\Test_Case_Fro_Case_Study.deps.json
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\bin\Debug\net6.0\Test_Case_Fro_Case_Study.runtimeconfig.json
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\bin\Debug\net6.0\Test_Case_Fro_Case_Study.dll
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\bin\Debug\net6.0\Test_Case_Fro_Case_Study.pdb
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\obj\Debug\net6.0\Test_Case_Fro_Case_Study.csproj.AssemblyReference.cache
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\obj\Debug\net6.0\Test_Case_Fro_Case_Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\obj\Debug\net6.0\Test_Case_Fro_Case_Study.AssemblyInfoInputs.cache
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\obj\Debug\net6.0\Test_Case_Fro_Case_Study.AssemblyInfo.cs
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\obj\Debug\net6.0\Test_Case_Fro_Case_Study.csproj.CoreCompileInputs.cache
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\obj\Debug\net6.0\Test_Case_Fro_Case_Study.dll
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\obj\Debug\net6.0\refint\Test_Case_Fro_Case_Study.dll
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\obj\Debug\net6.0\Test_Case_Fro_Case_Study.pdb
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\obj\Debug\net6.0\Test_Case_Fro_Case_Study.genruntimeconfig.cache
+C:\Users\Khashayar\Desktop\ikomm-local-machine-repo\Test_For_Case_Study\Test_Case_For_Case_Study\Test_Case_Fro_Case_Study\obj\Debug\net6.0\ref\Test_Case_Fro_Case_Study.dll
